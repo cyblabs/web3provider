@@ -1,0 +1,8 @@
+/demo/node_modules/
+/node_modules/
+/build/
+infura_deploy.json
+/demo/client_config.json
+Web3ProviderFull.sol
+.DS_Store
+package-lock.json
